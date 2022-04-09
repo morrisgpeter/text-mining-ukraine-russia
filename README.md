@@ -12,6 +12,8 @@ O *corpus* utilizado contém apenas palavras na língua inglesa.
 
 ## Análise da Frequência das Palavras
 
+
+
 ## Análise de Bigramas
 
 ## Modelagem de Tópicos
